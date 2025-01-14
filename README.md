@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=blue" />
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/SQL-20232a.svg?style=for-the-badge&logo=SQL&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/c-20232a.svg?style=for-the-badge&logo=c&logoColor=61DAFB" />

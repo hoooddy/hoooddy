@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=java&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/SQL-20232a.svg?style=for-the-badge&logo=SQL&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/java-20232a.svg?style=for-the-badge&logo=Java&logoColor=61DAFB" />
+<img src="https://img.shields.io/badge/SQL-20232a.svg?style=for-the-badge&logo=sql&logoColor=61DAFB" />
 <img src="https://img.shields.io/badge/c-20232a.svg?style=for-the-badge&logo=c&logoColor=61DAFB" />
 

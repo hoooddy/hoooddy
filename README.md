@@ -1,15 +1,12 @@
 <a href="mailto:kim980316@naver.com"><img src="https://img.shields.io/badge/kim980316@naver.com-00C300?style=for-the-badge&logo=naver&logoColor=white"/></a> 
 <a href="mailto:gudwns980316@gmail.com"><img src="https://img.shields.io/badge/gudwns980316@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
+## 문제 접근 방식 🤔
+항상 *"왜?"* 라는 질문을 던집니다.
+잘 풀릴 때뿐만 아니라 문제 발생 시에도 그 원인을 파악하려고 합니다.
+문제의 근본 원인을 이해하고, 가장 효과적인 해결책을 찾는 데 집착합니다.
+또한, 기본에 충실하는 것이 신뢰할 수 프로그램 개발의 핵심이라고 믿고 있습니다.
 
-### Hi there 👋
-I'm an AI Developer who wants to make the world a better place through artificial intelligence. 🌍✨
-
-I believe in the power of AI to solve real-world problems and improve lives, and I'm always exploring ways to push the boundaries of what's possible. My mission is to build intelligent systems that can have a positive impact on society.
-
-## My Approach 🤔
-I'm constantly asking myself *"Why?"*—not just when things go right, but especially when problems arise. I’m obsessed with understanding the root causes of issues and digging deep to find the most effective solutions.
-I also believe that focusing on the fundamentals is key to building a reliable system.
 <!--
 **hoooddy/hoooddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -3,8 +3,8 @@
 
 ## 문제 접근 방식 🤔
 항상 *"왜?"* 라는 질문을 던집니다.<br>
-새로운 개념을 접할 때 *"왜"*라는 질문을 통해 기초를 다집니다.<br>
-문제 발생 시 *"왜"*라는 질문을 통해 원인을 파악하려고 합니다.<br>
+새로운 개념을 접할 때 *"왜"* 라는 질문을 통해 기초를 다집니다.<br>
+문제가 발생 했을 때 *"왜"* 라는 질문을 통해 원인을 파악하려고 합니다.<br>
 
 <!--
 **hoooddy/hoooddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

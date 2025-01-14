@@ -1,10 +1,10 @@
 <a href="mailto:kim980316@naver.com"><img src="https://img.shields.io/badge/kim980316@naver.com-00C300?style=for-the-badge&logo=naver&logoColor=white"/></a> 
 <a href="mailto:gudwns980316@gmail.com"><img src="https://img.shields.io/badge/gudwns980316@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
-## 문제 접근 방식 🤔
+## Why? 🤔
 항상 *"왜?"* 라는 질문을 던집니다.<br>
-새로운 개념을 접할 때 *"왜"* 라는 질문을 통해 기초를 다집니다.<br>
-문제가 발생 했을 때 *"왜"* 라는 질문을 통해 원인을 파악하려고 합니다.<br>
+새로운 개념을 접할 때 *"왜?"* 라는 질문을 통해 기초를 다집니다.<br>
+문제가 발생 했을 때 *"왜?"* 라는 질문을 통해 원인을 파악하려고 합니다.<br>
 
 <!--
 **hoooddy/hoooddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

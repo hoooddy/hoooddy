@@ -1,4 +1,5 @@
 ## Hi there 👋
+<img src = "https://img.shields.io/badge/kim980316@naver.com-00C300?style=for-the-badge&logo=naver&logoColor=white"/> <img src=https://img.shields.io/badge/gudwns980316@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white/>
 
 <!--
 **hoooddy/hoooddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 Markdown Badge
-**https://ileriayo.github.io/markdown-badges/**
+https://ileriayo.github.io/markdown-badges/
 https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#-languages
 -->
 

@@ -13,6 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Markdown Badge
+**https://ileriayo.github.io/markdown-badges/**
+https://github.com/Ileriayo/markdown-badges?tab=readme-ov-file#-languages
 -->
 
 ### Progamming Language

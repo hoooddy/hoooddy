@@ -1,5 +1,6 @@
 ## Hi there 👋
-<a href="kim980316@naver.com"><img src = "https://img.shields.io/badge/kim980316@naver.com-00C300?style=for-the-badge&logo=naver&logoColor=white"/></a> <a href="gudwns980316@gmail.com"><img src="https://img.shields.io/badge/gudwns980316@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:kim980316@naver.com"><img src="https://img.shields.io/badge/kim980316@naver.com-00C300?style=for-the-badge&logo=naver&logoColor=white"/></a> 
+<a href="mailto:gudwns980316@gmail.com"><img src="https://img.shields.io/badge/gudwns980316@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <!--
 **hoooddy/hoooddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

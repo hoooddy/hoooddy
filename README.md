@@ -1,16 +1,15 @@
-## Hi there 👋
-<a href="mailto:kim980316@naver.com"><img src="https://img.shields.io/badge/kim980316@naver.com-00C300?style=for-the-badge&logo=naver&logoColor=white"/></a> 
-<a href="mailto:gudwns980316@gmail.com"><img src="https://img.shields.io/badge/gudwns980316@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-
-# Hi there, I'm an AI Developer! 👋
+### Hi there 👋
 
 I'm an AI Developer who wants to make the world a better place through artificial intelligence. 🌍✨
 
 I believe in the power of AI to solve real-world problems and improve lives, and I'm always exploring ways to push the boundaries of what's possible. My mission is to build intelligent systems that can have a positive impact on society.
 
 ## My Approach 🤔
-I'm constantly asking myself *"Why?"*—not just when things go right, but especially when problems arise. I’m obsessed with understanding the root causes of issues and digging deep to find the most effective solutions. I also believe that focusing on the fundamentals is key to building strong, reliable systems that can stand the test of time.
+I'm constantly asking myself *"Why?"*—not just when things go right, but especially when problems arise. I’m obsessed with understanding the root causes of issues and digging deep to find the most effective solutions.
+I also believe that focusing on the fundamentals is key to building a reliable system.
 
+<a href="mailto:kim980316@naver.com"><img src="https://img.shields.io/badge/kim980316@naver.com-00C300?style=for-the-badge&logo=naver&logoColor=white"/></a> 
+<a href="mailto:gudwns980316@gmail.com"><img src="https://img.shields.io/badge/gudwns980316@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 <!--
 **hoooddy/hoooddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

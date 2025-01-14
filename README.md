@@ -2,10 +2,10 @@
 <a href="mailto:gudwns980316@gmail.com"><img src="https://img.shields.io/badge/gudwns980316@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ## 문제 접근 방식 🤔
-항상 *"왜?"* 라는 질문을 던집니다.
-잘 풀릴 때뿐만 아니라 문제 발생 시에도 그 원인을 파악하려고 합니다.
-문제의 근본 원인을 이해하고, 가장 효과적인 해결책을 찾는 데 집착합니다.
-또한, 기본에 충실하는 것이 신뢰할 수 프로그램 개발의 핵심이라고 믿고 있습니다.
+항상 *"왜?"* 라는 질문을 던집니다.<br>
+잘 풀릴 때뿐만 아니라 문제 발생 시에도 그 원인을 파악하려고 합니다.<br>
+문제의 근본 원인을 이해하고, 가장 효과적인 해결책을 찾는 데 집착합니다.<br>
+또한, 기본에 충실하는 것이 신뢰할 수 프로그램 개발의 핵심이라고 믿고 있습니다.<br>
 
 <!--
 **hoooddy/hoooddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

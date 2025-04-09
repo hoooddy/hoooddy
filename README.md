@@ -1,5 +1,5 @@
 <a href="mailto:kim980316@naver.com"><img src="https://img.shields.io/badge/kim980316@naver.com-00C300?style=for-the-badge&logo=naver&logoColor=white"/></a> 
-<a href="mailto:gudwns980316@gmail.com"><img src="https://img.shields.io/badge/gudwns980316@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="mailto:rlagudwns980316@gmail.com"><img src="https://img.shields.io/badge/rlagudwns980316@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 
 ## Why? 🤔
 항상 *"**왜?**"* 라는 질문으로 개념의 **기초**와 문제의 **원인**을 파악하려고 합니다.<br>
